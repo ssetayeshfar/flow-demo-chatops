@@ -2,7 +2,7 @@
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
-## Running Locally locally test
+## Running Locally locally test test
 
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
 
